@@ -1,0 +1,84 @@
+{ "essentials":[{
+        "SlNo":"1",
+        "Name": "Rice",
+        "Quantity":"15",
+        "Unit":"Kg",
+        "Department":"Food Items",
+        "Notes":"Pavizham Rice"
+    },
+    {
+        "SlNo":"2",
+        "Name": "Sugar",
+        "Quantity":"5",
+        "Unit":"Kg",
+        "Department":"Food Items",
+        "Notes":"White Sugar"
+    },
+    {
+        "SlNo":"3",
+        "Name": "Wheat Flour",
+        "Quantity":"2",
+        "Unit":"Kg",
+        "Department":"Food Items",
+        "Notes":"Aatta"
+    },
+    {
+        "SlNo":"4",
+        "Name": "Oil",
+        "Quantity":"4",
+        "Unit":"liter",
+        "Department":"Food Items",
+        "Notes":"Coconut oil"
+    },
+{
+    "SlNo":"5",
+    "Name": "Dal",
+    "Quantity":"500",
+    "Unit":"grams",
+    "Department":"Food Items",
+    "Notes":"Red Gram Dal"
+},
+{
+    "SlNo":"6",
+    "Name": "Mask",
+    "Quantity":"7",
+    "Unit":"Number",
+    "Department":"Personal Hygiene",
+    "Notes":"Disposable"
+},
+{
+    "SlNo":"7",
+    "Name": "Hand Wash",
+    "Quantity":"1",
+    "Unit":"Number",
+    "Department":"Personal Hygiene",
+    "Notes":"Dettol Liquid Hand Wash" 
+},
+{
+    "SlNo":"8",
+    "Name": "Dettol",
+    "Quantity":"1",
+    "Unit":"Number",
+    "Department":"Personal Hygiene",
+    "Notes":"Dettol Antiseptic Liquid" 
+},
+{
+    "SlNo":"9",
+    "Name": "Milk",
+    "Quantity":"30",
+    "Unit":"Litres",
+    "Department":"Diary",
+    "Notes":"Milma" 
+     
+},
+{
+    "SlNo":"10",
+    "Name": "Tea powder",
+    "Quantity":"300",
+    "Unit":"gram",
+    "Department":"Beverages",
+    "Notes":"AVT" 
+     
+}
+]
+}    

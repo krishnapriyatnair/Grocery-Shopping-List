@@ -1,0 +1,74 @@
+body {
+  background-attachment:scroll;
+ 
+  background-color: darkkhaki; 
+  
+}
+
+h1{
+  background-color: darkkhaki;
+  color: crimson; 
+  text-align:center;
+  text-transform:uppercase;
+
+  text-shadow: 0 1px 0 #A5F1FF, 0 2px 0 #888888,
+             0 3px 0 #777777, 0 4px 0 #666666,
+             0 5px 0 #555555, 0 6px 0 #444444,
+             0 7px 0 #333333, 0 8px 7px rgba(0, 0, 0, 0.4),
+             0 9px 10px rgba(0, 0, 0, 0.2);
+  height:70px;
+  padding:2px;
+
+} 
+@media screen and (min-width: 601px) {
+  h1 {
+    font-size: 60px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  h1 {
+    font-size: 40px;
+  }
+}
+
+#carouselExampleSlidesOnly{
+  margin-top:1rem;
+  
+}
+
+h2{
+    text-align:left;
+    color: rebeccapurple;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+  
+   
+}
+table {
+  width:100%;
+}
+table, th, td{
+  border: 2px solid black;
+  border-collapse: collapse; 
+ 
+}
+th, td {
+  padding: 10px;
+  text-align: center;
+}
+table#t01 tr{
+   background-color: #eee; 
+
+
+}
+table#t01 td:hover {background-color: sandybrown;}
+
+table#t01 th {
+  background-color:greenyellow;
+  color: white;
+}
+
+
+
+
